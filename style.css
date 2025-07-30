@@ -1,0 +1,134 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Courier New', monospace;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #0f0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+main {
+  background: rgba(0, 0, 0, 0.8);
+  border: 2px solid #0f0;
+  border-radius: 12px;
+  padding: 30px;
+  width: 100%;
+  max-width: 480px;
+  text-align: center;
+  box-shadow: 0 0 20px #0f0;
+}
+
+h1 {
+  margin-bottom: 24px;
+  font-size: 2.5rem;
+  text-shadow: 0 0 8px #0f0;
+}
+
+button {
+  background: #0f0;
+  border: none;
+  color: #000;
+  font-size: 1.5rem;
+  padding: 12px 30px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 0 8px #0f0;
+}
+
+button:hover,
+button:focus {
+  background: #3fff3f;
+  outline: none;
+}
+
+#transcript {
+  margin-top: 20px;
+  font-size: 1.1rem;
+  min-height: 1.5em;
+  font-style: italic;
+}
+
+#responseBox {
+  margin-top: 28px;
+  font-size: 1.25rem;
+  min-height: 3.5em;
+  border: 2px dashed #0f0;
+  padding: 18px;
+  border-radius: 10px;
+  background: rgba(15, 255, 15, 0.1);
+  user-select: text;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+  main {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  button {
+    font-size: 1.2rem;
+    padding: 10px 24px;
+  }
+
+  #responseBox {
+    font-size: 1rem;
+  }
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #000;
+}
+
+footer a {
+  color: #0f0;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #3fff3f;
+}
+
+footer svg {
+  width: 24px;
+  height: 24px;
+  fill: #0f0;
+}
+
+footer a:hover svg {
+  fill: #3fff3f;
+}
