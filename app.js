@@ -17,22 +17,18 @@ Nerviosa sí, pero si quisiera podría programar un vuelo matinal con escala en 
 Con ella no se necesita Wi-Fi, porque transmite buena onda por Bluetooth.`
 },
 {
-  claves: ["lapaca", "choque", "rilver"],
+  claves: ["cordoba", "quintanilla", "daniel"],
   descripcion: `Siri dice:
 
-Escaneando sujeto...
+Escaneando personaje...
 
-Identificado: Lapaca Choque Rilver
+Identificado: Cordoba quintanilla daniel
 
-Nacionalidad: 100% boliviano, certificado con risas de fábrica.
+Nacionalidad: 100% boliviano, amante de la pizza, lastima que no lo amen a el.
 
 Frase de inicio: “La pinta es lo de menos, lo importante es tener megas ilimitados.”
 
-Se resiste a cumplir 18 como si fuera una actualización de Windows: siempre la pospone.
-
-Su hobby principal: hablar... pero menos con la boca.
-
-Estudiante del colegio Juana Azurduy, donde espera con ansias solo una parte del día: el recreo eterno. Si por él fuera, el horario escolar sería: “Recreo - Almuerzo - Recreo - Salida”.
+Estudiante del colegio campo rosso, donde espera con ansias solo una parte del día: el recreo eterno. Si por él fuera, el horario escolar sería: “Recreo - Almuerzo - Recreo - Salida”.
 
 Pero atención: cuando se pone las pilas, activa su modo TurboProgramador3000, y no hay algoritmo que lo detenga.
 
@@ -59,58 +55,52 @@ Cuando programa, los errores se le aparecen como faltas en el área: los ve, per
 Eso sí, cuando enfoca, lo hace tan bien que hasta el software lo aplaude.`
 },
 {
-  claves: ["margoly", "maturano", "daza"],
+  claves: ["contreras", "isla", "ayde"],
   descripcion: `Siri dice:
 
-Analizando a: Margoly Maturano Daza
+Analizando a: contreras isla ayde
 
-Boliviana de nacimiento, cruceña de corazón y diplomática en potencia.
+cruceña de corazón y diplomática en potencia.
 
-A sus 17 años ya se ve en trajes de poder, hablando en ONU, con traductor oficial cumpliendo labores diplomáticas aunque evitaría entrevistarse con el presidente Donald Trump, se desconecta el micrófono por seguridad emocional.
+A sus 17 años ya se ve en trajes de poder, hablando en la ONU, con traductor oficial cumpliendo labores diplomáticas.
 
-Vive en Satélite Norte, pero su GPS personal apunta directo a Washington D.C., aunque no descarta hacer escala por El Alto para algún mitin.
+Vive en Satélite Norte, pero su GPS personal apunta directo a Washington D.C.
 
-Estudia informática en el Juana Azurduy, y dice que si entiende los algoritmos... ¡entenderá cualquier tratado internacional!
+Estudia informática en campo rosso, y dice que si entiende los algoritmos... ¡entenderá cualquier tratado internacional!
 
 Sueña con cambiar el país, pero primero está tratando de cambiar el fondo de pantalla de su PC sin pedir ayuda.
 
-Su lema: "Primero el pueblo, después los pop-ups del antivirus".`
+Su lema: "Primero el pueblo, después php".`
 },
 {
-  claves: ["saaavedra", "peña", "jose", "antonio"],
+  claves: ["hurtado", "quiroga", "noel", "antonio"],
   descripcion: `Siri dice:
 
-Analizando a: Saaavedra Peña José Antonio
+Analizando a: hurtado quiroga noel antonio
 
-Cruceño de nacimiento, 17 años, y según él… más sexi que el vice de Tuto Quiroga (aunque nadie pidió la comparación).
+estudiante de  17 años, y según él… más sexi que el vice de Tuto Quiroga.
 
 Se define como “un hombre hecho y derecho”, aunque a veces en informática parece más perdido que print en Excel.
 
 Eso sí, cuando se concentra, saca poderío oculto, cual superhéroe digital, y te resuelve el algoritmo en Python como si estuviera en una campaña presidencial.
 
-En clases de informática: primero desconectado, luego sorpresivo. Como dirían en la política: no se lo ve venir, pero cuando llega, impacta.
-
 Tiene flow, tiene estilo y tiene... muchas pestañas abiertas en el navegador.
 
-¿Su lema?: “Primero Python, después el pueblo”.`
+¿Su lema?: “Primero Python, después mis compañeros”.`
 },
 {
-  claves: ["gutierrez", "camargo", "esmeralda"],
+  claves: ["Melgar", "perez", "sheril"],
   descripcion: `Siri dice:
 
-Escaneando a: Gutierrez Camargo Esmeralda
+Escaneando a: melgar perez sheril
 
-Fan del básquet, disciplinada y con una mirada que dice “hoy vengo por todo… menos por errores en el código”.
-
-A veces seria, a veces jovial... pero siempre con una vibra que dice “si esto no funciona, me lanzo a la NBA”.
+Fan del básquet, a veces seria, a veces jovial... pero siempre con una vibra que dice “si esto no funciona, me lanzo a la NBA”.
 
 En informática, cuando algo no le corre, se desespera más que en tiempo extra sin encestar, y como diría la canción: “Si no le contesto, se desespera…”
 
-Pero tranquila Esmeralda, recuerda que la virtud de todo buen programador es la paciencia (y un par de reinicios).
+Pero tranquila sheril, recuerda que la virtud de todo buen programador es la paciencia.
 
-Repite conmigo: “¡Esme, sea paciente!”
-
-Con esa energía, talento y un poco de calma, lograrás cosas grandes… en la cancha y en la consola.`
+Repite conmigo: “¡sheril, sea paciente!” xd.`
 },
 {
   claves: ["apaza", "ayala", "alison", "fernanda"],
@@ -153,14 +143,14 @@ Mónica Ojeda, boliviana de 17 años, con un talento para no darse por vencida y
 Su código siempre compila, pero con las relaciones tuvo más “errores de sintaxis”. Aún así, sigue depurando la vida con la misma dedicación que sus proyectos.`
 },
 {
-  claves: ["ortega", "quispe", "jhon"],
+  claves: ["puchuli", "espinoza", "franz"],
   descripcion: `Siri dice:
 
-Jhon Ortega Quispe, boliviano de nacimiento experto en mantener el perfil bajo hasta que le llega la hora de programar.
+personaje encontrado: puchuli espinoza franz, boliviano de nacimiento experto en mantener el perfil bajo hasta que le llega la hora de programar.
 
-Cuando se activa, su código es tan limpio que hasta su ex amor quisiera que su relación fuera igual de ordenada.
+Cuenta con un equipo de computo tan lento, tan lento que hasta los virus se alejan de el.
 
-En clase, combina lógica y paciencia… aunque a veces el corazón se le cuelga como un error sin depurar.`
+En clase quiere concentrarse… pero todo le recuerdad a la ex . sin llorar francisco por favor.`
 },
 {
   claves: ["lara", "hinojosa", "jhoselin"],
