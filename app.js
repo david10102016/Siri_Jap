@@ -125,12 +125,12 @@ Noemi Calderón, joven boliviana de 17 años, pequeña pero “peligrosa” en p
 Su hobby es escuchar música y ver tutoriales, y aunque está en la fase de programar, cada línea que escribe es un golpe certero contra los bugs.`
 },
 {
-  claves: ["rodriguez", "aguilar", "cristian"],
+  claves: ["rodriguez", "sanchez", "lucero"],
   descripcion: `Siri dice:
 
-Cristian Rodríguez Aguilar, con 17 años, este estudiante boliviano no solo está inmerso con PHP, sino que también maneja la paciencia como un recurso ilimitado.
+Cristian snachez lucero, proximamente cumple 15 años el 12 de mayo, estudiante cruceña no solo está inmerso en fisica y quimica, sino que también maneja la paciencia como un recurso ilimitado.
 
-Es tan paciente que hasta los virus tienen flojera de tratar con él.`
+Es tan paciente que hasta los virus tienen flojera de tratar con ella.`
 },
 {
   claves: ["monica", "ojeda"],
