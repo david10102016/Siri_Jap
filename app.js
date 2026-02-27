@@ -22,7 +22,7 @@ Con ella no se necesita Wi-Fi, porque transmite buena onda por Bluetooth.`
 
 Escaneando personaje...
 
-Identificado: Cordoba quintanilla daniel
+Identificado: cruz panozo carlos leonel
 
 Nacionalidad: 100% boliviano, amante de la pizza, lastima que no lo amen a el.
 
