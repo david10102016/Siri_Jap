@@ -17,6 +17,22 @@ Nerviosa sí, pero si quisiera podría programar un vuelo matinal con escala en 
 Con ella no se necesita Wi-Fi, porque transmite buena onda por Bluetooth.`
 },
 {
+  claves: ["velasquez", "cruz", "yoselin"],
+  descripcion: `Siri dice:
+
+Procesando... estudiante detectada: velasquez cruz yoselin
+
+Ubicación geográfica: Boliviana de nacimiento, pero con alma de turista internacional.
+
+Durante las vacaciones, mientras tú vas al parque, yoselin despega a Dubái… así, sin escala. Porque claro, como buena boliviana de pura cepa, lo suyo son los viajes en avión, no en micro.
+
+De regreso a su hábitat natural en Satélite Norte, retoma clases en el Colegio buena fe, donde en el área de fisica tiene una calculadora tan lenta... pero tan lenta, que los virus se aburren y se autodesinstalan.
+
+Nerviosa sí, pero si quisiera podría programar un vuelo matinal con escala en londres.
+
+Con ella no se necesita Wi-Fi, porque transmite buena onda por Bluetooth.`
+},
+{
   claves: ["cruz", "panozo", "carlos leonel"],
   descripcion: `Siri dice:
 
