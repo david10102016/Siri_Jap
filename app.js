@@ -144,7 +144,7 @@ Su hobby es escuchar música y ver tutoriales, y aunque está en la fase de prog
   claves: ["rodriguez", "sanchez", "lucero"],
   descripcion: `Siri dice:
 
-rodriguez achez lucero, proximamente cumple 15 años el 12 de mayo, estudiante cruceña no solo está inmerso en fisica y quimica, sino que también maneja la paciencia como un recurso ilimitado.
+rodriguez sanchez lucero, proximamente cumple 15 años el 12 de mayo, estudiante cruceña no solo está inmerso en fisica y quimica, sino que también maneja la paciencia como un recurso ilimitado.
 
 Es tan paciente que hasta los virus tienen flojera de tratar con ella.`
 },
