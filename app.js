@@ -71,20 +71,20 @@ Sueña con cambiar el país, pero primero está tratando de cambiar el fondo de 
 Su lema: "Primero el pueblo, después php".`
 },
 {
-  claves: ["hurtado", "quiroga", "noel", "antonio"],
+  claves: ["barcaya", "kaqui", "jhon", "david"],
   descripcion: `Siri dice:
 
-Analizando a: hurtado quiroga noel antonio
+Analizando a: barcaya kaqui jhon david
 
-estudiante de  17 años, y según él… más sexi que el vice de Tuto Quiroga.
+estudiante de  15 años, y según él… más sexi que el exvice de Tuto Quiroga.
 
-Se define como “un hombre hecho y derecho”, aunque a veces en informática parece más perdido que print en Excel.
+Se define como “un hombre hecho y derecho”, aunque a veces en fisica y quimica parece más perdido que print en Excel.
 
-Eso sí, cuando se concentra, saca poderío oculto, cual superhéroe digital, y te resuelve el algoritmo en Python como si estuviera en una campaña presidencial.
+Eso sí, cuando se concentra, saca poderío oculto, cual superhéroe digital, y te resuelve los problemas matematicos  como si estuviera en una campaña presidencial.
 
 Tiene flow, tiene estilo y tiene... muchas pestañas abiertas en el navegador.
 
-¿Su lema?: “Primero Python, después mis compañeros”.`
+¿Su lema?: “primero fisica y quimica, después mis compañeros”.`
 },
 {
   claves: ["Melgar", "perez", "sheril"],
