@@ -103,6 +103,22 @@ Tiene flow, tiene estilo y tiene... muchas pestañas abiertas en el navegador.
 ¿Su lema?: “primero fisica y quimica, después mis compañeros”.`
 },
 {
+  claves: ["claros", "rojas", "jhon"],
+  descripcion: `Siri dice:
+
+Analizando a: claros rojas jhon
+
+estudiante de  15 años, y según él… más sexi que el ex vice de Tuto Quiroga.
+
+Se define como “un hombre hecho y derecho”, aunque a veces en fisica y quimica parece más perdido que print en Excel.
+
+Eso sí, cuando se concentra, saca poderío oculto, cual superhéroe digital, y te resuelve los problemas matematicos  como si estuviera en una campaña presidencial.
+
+Tiene flow, tiene estilo y tiene... muchas pestañas abiertas en el navegador.
+
+¿Su lema?: “primero fisica y quimica, después mis compañeros”.`
+},
+{
   claves: ["Melgar", "perez", "sheril"],
   descripcion: `Siri dice:
 
