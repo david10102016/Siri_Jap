@@ -1,10 +1,10 @@
 // Lista de estudiantes con sus palabras clave y biografías
 const estudiantes = [
 {
-  claves: ["alcazar", "suarez", "arlet"],
+  claves: ["camacho", "diaz", "arlet"],
   descripcion: `Siri dice:
 
-Procesando... estudiante detectada: alcazar suarez arlet
+Procesando... estudiante detectada: camacho diaz arlet
 
 Ubicación geográfica: Boliviana de nacimiento, pero con alma de turista internacional.
 
