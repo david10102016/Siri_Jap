@@ -1,18 +1,18 @@
 // Lista de estudiantes con sus palabras clave y biografías
 const estudiantes = [
 {
-  claves: ["yara", "vidal", "arredondo"],
+  claves: ["alcazar", "suarez", "arlet"],
   descripcion: `Siri dice:
 
-Procesando... estudiante detectada: Yara Vidal Arredondo
+Procesando... estudiante detectada: alcazar suarez arlet
 
-Ubicación geográfica: Beniana de nacimiento, pero con alma de turista internacional.
+Ubicación geográfica: Boliviana de nacimiento, pero con alma de turista internacional.
 
-Durante vacaciones, mientras tú vas al parque, Yara despega a Dubái… así, sin escala. Porque claro, como buena beniana de pura cepa, lo suyo son los viajes en avión, no en micro.
+Durante las vacaciones, mientras tú vas al parque, Arlet despega a Dubái… así, sin escala. Porque claro, como buena boliviana de pura cepa, lo suyo son los viajes en avión, no en micro.
 
-De regreso a su hábitat natural en Satélite Norte, retoma clases en el Colegio Juana Azurduy, donde en el área de informática tiene una computadora tan lenta... pero tan lenta, que los virus se aburren y se autodesinstalan.
+De regreso a su hábitat natural en Satélite Norte, retoma clases en el Colegio buena fe, donde en el área de fisica tiene una calculadora tan lenta... pero tan lenta, que los virus se aburren y se autodesinstalan.
 
-Nerviosa sí, pero si quisiera podría programar un vuelo matinal con escala en su imaginación y destino final: el examen de informática.
+Nerviosa sí, pero si quisiera podría programar un vuelo matinal con escala en londres.
 
 Con ella no se necesita Wi-Fi, porque transmite buena onda por Bluetooth.`
 },
