@@ -17,7 +17,7 @@ Nerviosa sí, pero si quisiera podría programar un vuelo matinal con escala en 
 Con ella no se necesita Wi-Fi, porque transmite buena onda por Bluetooth.`
 },
 {
-  claves: ["cordoba", "quintanilla", "daniel"],
+  claves: ["cruz", "panozo", "carlos leonel"],
   descripcion: `Siri dice:
 
 Escaneando personaje...
@@ -30,9 +30,7 @@ Frase de inicio: “La pinta es lo de menos, lo importante es tener megas ilimit
 
 Estudiante del colegio campo rosso, donde espera con ansias solo una parte del día: el recreo eterno. Si por él fuera, el horario escolar sería: “Recreo - Almuerzo - Recreo - Salida”.
 
-Pero atención: cuando se pone las pilas, activa su modo TurboProgramador3000, y no hay algoritmo que lo detenga.
-
-En ese estado, compila tan rápido que hasta Visual Studio se asusta.`
+Pero atención: cuando se pone las pilas, activa su modo TurboProgramador3000, y no hay algoritmo que lo detenga.`
 },
 {
   claves: ["silva", "lopez", "carlos", "hugo"],
