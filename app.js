@@ -103,12 +103,12 @@ Tiene flow, tiene estilo y tiene... muchas pestañas abiertas en el navegador.
 ¿Su lema?: “primero fisica y quimica, después mis compañeros”.`
 },
 {
-  claves: ["claros", "rojas", "jhon"],
+  claves: ["garcia", "castro", "leiton"],
   descripcion: `Siri dice:
 
-Analizando a: claros rojas jhon
+Analizando a: garcia castro leiton
 
-estudiante de  15 años, y según él… más sexi que el ex vice de Tuto Quiroga.
+estudiante de  15 años nacido en yapacani, y según él… más sexi que el ex candidato vice de Tuto Quiroga.
 
 Se define como “un hombre hecho y derecho”, aunque a veces en fisica y quimica parece más perdido que print en Excel.
 
