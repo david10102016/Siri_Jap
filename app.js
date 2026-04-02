@@ -265,20 +265,8 @@ En química le cuesta balancear ecuaciones pero sus emociones las balancea perfe
 
 Llega al colegio seria, pero en el recreo es otra persona. En física eso se llama cambio de estado.`
   },
-  {
-    claves: ["claros", "rojas", "jhon"],
-    descripcion: `Siri dice:
 
-Detectado: Claros Rojas Jhon. Satélite Norte. 15 años.
-
-Se cree el más carismático del curso. Técnicamente no está equivocado... técnicamente.
-
-Tiene un TikTok con videos de "consejos de vida". Tiene 15 años. Jhon, todavía no viviste suficiente.
-
-En el grupo del curso es el primero en mandar el "alguien hizo la tarea?" a las 7 de la mañana. Nadie responde. Él pregunta de nuevo.
-
-Su crush le dijo "eres muy gracioso". Él interpretó eso como una propuesta de matrimonio.`
-  },
+   
   {
     claves: ["condori", "rueda", "cristofer"],
     descripcion: `Siri dice:
